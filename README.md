@@ -18,6 +18,10 @@ Through this experience, users are encouraged to solve problems creatively, expe
 [Tesla Coil](https://github.com/sourceduty/Tesla_Coil)
 <br>
 [Tesla Turbine](https://github.com/sourceduty/Tesla_Turbine)
+<br>
+[Einstain Game](https://github.com/sourceduty/Einstein_Game)
+<br>
+[Einstain Battle](https://github.com/sourceduty/Einstein_Battle)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
